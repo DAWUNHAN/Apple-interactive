@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/DAWUNHAN/Apple-interactive/issues"
   },
-  "homepage": "https://github.com/DAWUNHAN/Apple-interactive#readme",
+  "homepage": "https://dawunhan.github.io/Apple-interactive/",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
