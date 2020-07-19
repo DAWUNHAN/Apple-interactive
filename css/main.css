@@ -164,9 +164,14 @@ body.before-load {
 	background:#F2F2F2;
 	padding-left: 5rem;
 }
+.footer-grid {
+	padding-top: 3rem;
+}
+.footer-grid:last-child {
+	padding-bottom: 3rem;
+}
+
 .footer-grid h2 {
-    padding-top: 3rem;
-	padding-bottom: 1rem;
 	color: black;
 }
 .sticky-elem {
@@ -292,6 +297,9 @@ body.before-load {
 	}
 	.footer-grid {
 		display: block;
-		margin: auto;
+		margin-left: auto;
+		margin-right: auto;
+		padding-top: 0px;
+		padding-bottom: 0px;
 	}
 }
